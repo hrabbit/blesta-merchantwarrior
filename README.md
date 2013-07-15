@@ -1,4 +1,4 @@
 blesta-merchantwarrior
 ======================
 
-Merchant Warrior gateway module for Blesta
+Merchant Warrior gateway module for Blesta v3.0
